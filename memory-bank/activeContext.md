@@ -1,7 +1,7 @@
 # Active Context
 
 ## Current Focus
-Single-page directory site built; official color palette applied to Collective shell and Rae Ann Weddings brand section.
+Site is **live** at raeanncollective.com (Aug 30, 2026).
 
 ## Domain
 - **Production target:** `www.raeanncollective.com`

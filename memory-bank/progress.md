@@ -27,6 +27,9 @@
 - Apply official palette to Rae Ann Weddings main site at rebrand launch
 - Optional v2: collective logo, hero/brand photography
 
+### Session update (Aug 30, 2026 — production launch)
+- Site live at raeanncollective.com after Coolify **Ports Exposes** set to `80` (was `3000`, caused 502 Bad Gateway)
+
 ### Session update (Aug 30, 2026 — deploy fix)
 - Removed `nginx.conf` from `.dockerignore` so Docker build can COPY it (Coolify deploy was failing)
 - Dockerfile: remove default nginx config before applying project config

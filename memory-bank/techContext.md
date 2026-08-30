@@ -21,3 +21,4 @@
 1. Push to git remote connected to Coolify
 2. Point `raeanncollective.com` DNS to Coolify host
 3. Enable SSL in Coolify panel
+4. **Coolify → Ports Exposes: `80`** (nginx listens on 80; `3000` causes 502 Bad Gateway)
