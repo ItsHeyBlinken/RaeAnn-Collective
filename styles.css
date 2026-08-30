@@ -335,18 +335,14 @@ a:hover {
 
 .story-photos {
     display: none;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 1rem;
+    grid-template-columns: 1fr;
+    gap: 1.25rem;
+    max-width: 14rem;
+    margin-inline: auto;
 }
 
 .story-photos:not(:empty) {
     display: grid;
-}
-
-.story-photos:has(.story-photo:only-child) {
-    grid-template-columns: 1fr;
-    max-width: 14rem;
-    margin-inline: auto;
 }
 
 .story-photo {
@@ -377,8 +373,8 @@ a:hover {
         grid-template-columns: 1.4fr 1fr;
     }
 
-    .story-meaning:has(.story-photos:not(:empty)) .story-photos:has(.story-photo:only-child) {
-        max-width: none;
+    .story-meaning:has(.story-photos:not(:empty)) .story-photos {
+        max-width: 12rem;
         margin-inline: 0;
     }
 
