@@ -29,6 +29,8 @@
 
 ### Session update (Aug 30, 2026 — deploy fix)
 - Removed `nginx.conf` from `.dockerignore` so Docker build can COPY it (Coolify deploy was failing)
+- Dockerfile: remove default nginx config before applying project config
+- docker-compose: added `expose: "80"` for Coolify proxy routing
 
 ### Session update (Aug 30, 2026 — story photos complete)
 - Added Rae photo (`assets/Rae.jpg`) with caption **Janet Rae**; paired with Theresa Ann in two-column grid

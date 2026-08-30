@@ -6,6 +6,8 @@ services:
       context: .
       dockerfile: Dockerfile
     container_name: ${COOLIFY_CONTAINER_NAME:-raeann-collective-web}
+    expose:
+      - "80"
     ports:
       - "${PORT:-80}:80"
     restart: unless-stopped
