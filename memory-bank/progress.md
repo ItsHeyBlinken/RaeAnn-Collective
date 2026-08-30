@@ -27,6 +27,9 @@
 - Apply official palette to Rae Ann Weddings main site at rebrand launch
 - Optional v2: collective logo, hero/brand photography
 
+### Session update (Aug 30, 2026 — story photos complete)
+- Added Rae photo (`assets/Rae.jpg`) with caption **Janet Rae**; paired with Theresa Ann in two-column grid
+
 ### Session update (Aug 30, 2026 — reciprocal backlink)
 - Documented Rae Ann Weddings redesign footer link to raeanncollective.com (staging; pending production launch)
 - Added Ann photo (`assets/Ann.jpg`) to Our Story

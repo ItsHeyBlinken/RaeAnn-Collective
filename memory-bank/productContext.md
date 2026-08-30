@@ -13,7 +13,7 @@ A calm, editorial single-page directory that introduces the collective and route
 ## Our Story Structure
 1. Collective intro paragraph
 2. **The Meaning Behind Rae Ann** — Rae (Natalie's aunt), Ann (grandmother, Rae's sister)
-3. Photo grid (`.story-photos`) — pending client assets
+3. Photo grid — Janet Rae (`assets/Rae.jpg`) and Theresa Ann (`assets/Ann.jpg`)
 
 ## Brand Relationship
 Mother-daughter team with 25+ combined years in weddings. The name **Rae Ann** honors two beloved family members—drawn from the middle name of each. Wedding planning led to opening Exquisite Bride to bring underrepresented bridal designers to DFW.
