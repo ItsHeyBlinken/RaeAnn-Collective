@@ -4,11 +4,16 @@
 A calm, editorial single-page directory that introduces the collective and routes visitors to the right brand.
 
 ## Sections
-1. **Header** — Text wordmark, anchor nav (Our Story, Our Brands)
-2. **Hero** — Collective name, value proposition, DFW geographic anchor
-3. **Our Story** — Mother-daughter narrative, inline contextual links to both brands
-4. **Brand cards** — Side-by-side (stacked mobile) Exquisite Bride and Rae Ann Weddings blocks with accent colors, descriptions, CTAs, secondary links
-5. **Footer** — Repeat brand links, copyright, BytesByBlinken credit
+1. **Header** — Logo, anchor nav (Our Story, Our Brands)
+2. **Hero** — Logo, value proposition, DFW geographic anchor
+3. **Our Story** — Collective intro + The Meaning Behind Rae Ann (photo grid pending)
+4. **Brand cards** — Exquisite Bride and Stress Free Events & Weddings
+5. **Footer** — Brand links, copyright, BytesByBlinken credit
+
+## Our Story Structure
+1. Collective intro paragraph
+2. **The Meaning Behind Rae Ann** — Rae (Natalie's aunt), Ann (grandmother, Rae's sister)
+3. Photo grid (`.story-photos`) — pending client assets
 
 ## Brand Relationship
 Mother-daughter team with 25+ combined years in weddings. The name **Rae Ann** honors two beloved family members—drawn from the middle name of each. Wedding planning led to opening Exquisite Bride to bring underrepresented bridal designers to DFW.

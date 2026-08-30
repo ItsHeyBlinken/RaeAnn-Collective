@@ -23,6 +23,10 @@
 - Apply official palette to Rae Ann Weddings main site at rebrand launch
 - Optional v2: collective logo, hero/brand photography
 
+### Session update (Aug 30, 2026 — Meaning Behind Rae Ann)
+- Added full client story (Rae = aunt, Ann = grandmother) under Our Story
+- Prepared `.story-photos` grid for client images when delivered
+
 ### Session update (Aug 30, 2026 — name origin in Our Story)
 - Added paragraph explaining Rae Ann honors two beloved family members, from the middle name of each
 

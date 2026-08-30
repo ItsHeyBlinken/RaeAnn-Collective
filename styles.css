@@ -295,9 +295,97 @@ a:hover {
 }
 
 .story-inner {
-    max-width: 42rem;
+    max-width: 46rem;
     margin-inline: auto;
     text-align: center;
+}
+
+.story-meaning {
+    margin-top: 2.5rem;
+    padding-top: 2.5rem;
+    border-top: 1px solid var(--color-divider);
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2rem;
+    align-items: start;
+}
+
+.story-meaning h3 {
+    margin: 0 0 0.75rem;
+    font-family: var(--font-heading);
+    font-size: clamp(1.35rem, 3vw, 1.65rem);
+    font-weight: 600;
+    color: var(--color-text);
+    text-align: center;
+}
+
+.story-tagline {
+    margin: 0 0 1.5rem !important;
+    font-family: var(--font-heading);
+    font-size: 1.1rem;
+    font-style: italic;
+    text-align: center;
+    color: var(--color-accent-secondary) !important;
+}
+
+.story-meaning-body p strong {
+    color: var(--color-text);
+    font-weight: 600;
+}
+
+.story-photos {
+    display: none;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+}
+
+.story-photos:not(:empty) {
+    display: grid;
+}
+
+.story-photos:has(.story-photo:only-child) {
+    grid-template-columns: 1fr;
+    max-width: 14rem;
+    margin-inline: auto;
+}
+
+.story-photo {
+    margin: 0;
+}
+
+.story-photo figcaption {
+    margin-top: 0.5rem;
+    font-size: 0.8rem;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    text-align: center;
+    color: var(--color-accent-secondary);
+}
+
+.story-photos img {
+    width: 100%;
+    height: auto;
+    border-radius: 1rem;
+    box-shadow: 0 8px 24px rgba(78, 58, 75, 0.1);
+    object-fit: cover;
+    aspect-ratio: 3 / 4;
+}
+
+@media (min-width: 768px) {
+    .story-meaning:has(.story-photos:not(:empty)) {
+        grid-template-columns: 1.4fr 1fr;
+    }
+
+    .story-meaning:has(.story-photos:not(:empty)) .story-photos:has(.story-photo:only-child) {
+        max-width: none;
+        margin-inline: 0;
+    }
+
+    .story-meaning:has(.story-photos:not(:empty)) .story-meaning-body h3,
+    .story-meaning:has(.story-photos:not(:empty)) .story-tagline {
+        text-align: left;
+    }
 }
 
 .story h2,
