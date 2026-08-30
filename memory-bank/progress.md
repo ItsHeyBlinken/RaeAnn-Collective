@@ -14,14 +14,22 @@
 - Responsive: stacked brand cards and footer on mobile, full-width CTAs on small screens
 - Added `robots.txt`, `sitemap.xml`, `README.md`
 
-### Reciprocal link action items (client/manual)
-- **Exquisite Bride** (`exquisite-brides.com`): Add footer or About blurb — "Part of Rae Ann Collective" linking to `https://www.raeanncollective.com/`
-- **Rae Ann Weddings** (`stressfree-events.com` / `raeannweddings.com`): Same reciprocal link after rebrand cutover
+### Reciprocal link status
+- **Rae Ann Weddings redesign (staging):** Footer backlink added — "Division of Rae Ann Collective" → `https://www.raeanncollective.com` (live when redesign launches)
+- **Exquisite Bride:** Pending — **Exquisite Bride web team** (no repo access). Match Rae Ann Weddings footer exactly:
+  - Visible line: `Division of Rae Ann Collective`
+  - Link URL: `https://www.raeanncollective.com`
+  - Link anchor text: `Rae Ann Collective` (with plain text `Division of ` before the link)
+  - Attributes: `rel="noopener noreferrer"`
 
 ### Pending (client)
 - Rae Ann Weddings domain cutover — update URLs in `index.html` and `config.js`
 - Apply official palette to Rae Ann Weddings main site at rebrand launch
 - Optional v2: collective logo, hero/brand photography
+
+### Session update (Aug 30, 2026 — reciprocal backlink)
+- Documented Rae Ann Weddings redesign footer link to raeanncollective.com (staging; pending production launch)
+- Added Ann photo (`assets/Ann.jpg`) to Our Story
 
 ### Session update (Aug 30, 2026 — Meaning Behind Rae Ann)
 - Added full client story (Rae = aunt, Ann = grandmother) under Our Story

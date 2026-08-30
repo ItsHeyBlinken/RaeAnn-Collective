@@ -17,7 +17,6 @@ Single-page directory website at **raeanncollective.com** serving as an umbrella
 - Organization schema linking collective to sub-brands
 - Deployable via Docker/nginx on Coolify
 
-## Out of Scope (v1)
-- Multi-page site, CMS, blog, contact forms
-- Collective logo beyond text wordmark
-- Reciprocal links on child sites (manual client action)
+## Backlink Graph
+- **Outbound (this site):** Links to Exquisite Bride and Stress Free Events / Rae Ann Weddings
+- **Inbound:** Rae Ann Weddings redesign footer links back on staging; **Exquisite Bride inbound link** is an external task for their web team (no repo access)

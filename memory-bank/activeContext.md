@@ -20,10 +20,10 @@ Exquisite Bride card uses champagne/sand accents from the same palette family.
 3. **Our Story photos:** Ann added (`assets/Ann.jpg`); Rae photo pending
 4. **Our Story:** Add Rae Ann Weddings and Design paragraph when redesign goes live
 5. Rae Ann Weddings domain cutover — update link URLs in `index.html` and `config.js`
-4. Apply same palette to Rae Ann Weddings main site (`StressFree` repo) at rebrand launch
-5. **Reciprocal backlinks** on child sites:
-   - Exquisite Bride footer/About → "Part of Rae Ann Collective" → raeanncollective.com
-   - Rae Ann Weddings footer/About → same
+6. Apply same palette to Rae Ann Weddings main site (`StressFree` repo) at rebrand launch
+7. **Reciprocal backlinks** on child sites:
+   - **Exquisite Bride** → raeanncollective.com — *external: EB web team; use same footer as Rae Ann Weddings: `Division of` + link `Rae Ann Collective` → `https://www.raeanncollective.com`*
+   - ~~Rae Ann Weddings footer~~ → **Done on redesign (staging):** "Division of [Rae Ann Collective](https://www.raeanncollective.com)" in footer; goes live when redesign merges to production
 
 ## Brand URL Constants
 See `config.js` — links point to live **stressfree-events.com** until Rae Ann Weddings redesign launches.
@@ -34,3 +34,5 @@ When production cutover happens, update `index.html` and `config.js` to:
 - **Domain:** `raeannweddings.com`
 - **Services:** Full Wedding Planning, Partial Wedding Planning, Wedding Day Management
 - **Messaging:** Rae Ann Experience, Rae Ann couples
+
+**Inbound backlink (staging):** Footer line `Division of <a href="https://www.raeanncollective.com">Rae Ann Collective</a>` — plain text “Division of”, link anchor text “Rae Ann Collective”, `rel="noopener noreferrer"`.
