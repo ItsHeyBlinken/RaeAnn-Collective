@@ -5,5 +5,4 @@ memory-bank/
 .dockerignore
 Dockerfile
 docker-compose.yaml
-nginx.conf
 README.md
