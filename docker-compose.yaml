@@ -1,0 +1,22 @@
+version: '3.8'
+
+services:
+  web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: ${COOLIFY_CONTAINER_NAME:-raeann-collective-web}
+    ports:
+      - "${PORT:-80}:80"
+    restart: unless-stopped
+    environment:
+      - COOLIFY_URL=${COOLIFY_URL}
+      - COOLIFY_FQDN=${COOLIFY_FQDN}
+      - COOLIFY_BRANCH=${COOLIFY_BRANCH}
+      - COOLIFY_RESOURCE_UUID=${COOLIFY_RESOURCE_UUID}
+    networks:
+      - coolify
+
+networks:
+  coolify:
+    external: true

@@ -1,0 +1,9 @@
+memory-bank/
+.git/
+.gitignore
+.env
+.dockerignore
+Dockerfile
+docker-compose.yaml
+nginx.conf
+README.md
