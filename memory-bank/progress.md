@@ -20,4 +20,20 @@
 
 ### Pending (client)
 - Rae Ann Weddings domain cutover — update URLs in `index.html` and `config.js`
+- Apply official palette to Rae Ann Weddings main site at rebrand launch
 - Optional v2: collective logo, hero/brand photography
+
+### Session update (Aug 30, 2026 — pre-launch link fix)
+- Reverted Rae Ann Weddings links to live **stressfree-events.com** (redesign not yet on production)
+- Restored production-aligned copy: Stress Free Events & Weddings, 90-day planning, Wedding Club
+- Documented post-launch swap targets in `config.js` and memory bank
+
+### Session update (Aug 30, 2026 — RAW redesign copy sync)
+- (Superseded for production links/copy until rebrand launch — staging targets documented in activeContext.md)
+
+### Session update (Aug 30, 2026 — logo)
+- Added `assets/Rae Ann Logo Suite - 3.png` to site header and hero
+- Updated Organization JSON-LD, Open Graph image, and apple-touch-icon
+- Applied official Rae Ann Collective palette to site shell (`styles.css`, `favicon.svg`)
+- Confirmed palette is shared with Rae Ann Weddings; updated RAW brand card to use plum/lilac/dusty-purple/champagne (replacing old lavender/sage Stress Free colors)
+- Updated `memory-bank/systemPatterns.md` and `activeContext.md` with palette tokens

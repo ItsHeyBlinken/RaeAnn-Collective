@@ -1,6 +1,8 @@
 /**
- * Brand URL constants — update here and in index.html when Rae Ann Weddings domain cutovers.
- * HTML links are the SEO source of truth; keep both in sync.
+ * Brand URL constants — keep in sync with index.html link targets.
+ *
+ * Rae Ann Weddings redesign (raeannweddings.com) is not live yet.
+ * Update these URLs when the rebrand launches on production.
  */
 const SITE_CONFIG = {
   collectiveUrl: 'https://www.raeanncollective.com/',
@@ -12,11 +14,16 @@ const SITE_CONFIG = {
       designersUrl: 'https://exquisite-brides.com/our-designers',
     },
     raeAnnWeddings: {
-      name: 'Rae Ann Weddings',
-      // Update to 'https://www.raeannweddings.com/' at domain cutover
+      // Live production brand until rebrand launch
+      name: 'Stress Free Events & Weddings',
       url: 'https://www.stressfree-events.com/home.html',
-      servicesUrl: 'https://www.stressfree-events.com/services.html',
-      contactUrl: 'https://www.stressfree-events.com/contact.html',
+      servicesUrl: 'https://www.stressfree-events.com/wedding-services.html',
+      contactUrl: 'https://www.stressfree-events.com/contact-us.html',
+      // Post-launch targets:
+      // name: 'Rae Ann Weddings and Design',
+      // url: 'https://www.raeannweddings.com/home.html',
+      // servicesUrl: 'https://www.raeannweddings.com/wedding-services.html',
+      // contactUrl: 'https://www.raeannweddings.com/contact-us.html',
     },
   },
 };

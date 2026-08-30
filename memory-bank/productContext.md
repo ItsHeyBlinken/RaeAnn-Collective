@@ -17,4 +17,4 @@ Mother-daughter team with 25+ combined years in weddings. Wedding planning (Rae 
 | Brand | Primary URL | Notes |
 |-------|-------------|-------|
 | Exquisite Bride | exquisite-brides.com | Live production |
-| Rae Ann Weddings | stressfree-events.com (pre-cutover) | Update to raeannweddings.com at launch |
+| Stress Free Events & Weddings | stressfree-events.com | Live production until rebrand launch |
