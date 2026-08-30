@@ -17,7 +17,8 @@ Exquisite Bride card uses champagne/sand accents from the same palette family.
 ## Pending Client Actions
 1. ~~Collective logo beyond text wordmark~~ — logo added (`assets/Rae Ann Logo Suite - 3.png`)
 2. Hero/brand photography
-3. Rae Ann Weddings domain cutover — update link URLs in `index.html` and `config.js`
+3. **Our Story:** Add Rae Ann Weddings and Design paragraph when redesign goes live
+4. Rae Ann Weddings domain cutover — update link URLs in `index.html` and `config.js`
 4. Apply same palette to Rae Ann Weddings main site (`StressFree` repo) at rebrand launch
 5. **Reciprocal backlinks** on child sites:
    - Exquisite Bride footer/About → "Part of Rae Ann Collective" → raeanncollective.com

@@ -11,7 +11,7 @@ A calm, editorial single-page directory that introduces the collective and route
 5. **Footer** — Repeat brand links, copyright, BytesByBlinken credit
 
 ## Brand Relationship
-Mother-daughter team with 25+ combined years in weddings. Wedding planning (Rae Ann Weddings) led to opening Exquisite Bride to bring underrepresented bridal designers to DFW. Natural cross-referral between planning and boutique.
+Mother-daughter team with 25+ combined years in weddings. The name **Rae Ann** honors two beloved family members—drawn from the middle name of each. Wedding planning led to opening Exquisite Bride to bring underrepresented bridal designers to DFW.
 
 ## Link Targets
 | Brand | Primary URL | Notes |

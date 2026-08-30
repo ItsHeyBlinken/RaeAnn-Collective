@@ -23,6 +23,13 @@
 - Apply official palette to Rae Ann Weddings main site at rebrand launch
 - Optional v2: collective logo, hero/brand photography
 
+### Session update (Aug 30, 2026 — name origin in Our Story)
+- Added paragraph explaining Rae Ann honors two beloved family members, from the middle name of each
+
+### Session update (Aug 30, 2026 — Our Story rewrite)
+- Replaced Our Story with collective-focused copy (intention, legacy, curated brands)
+- Removed brand-specific inline links from Our Story; Rae Ann Weddings paragraph to be added at rebrand launch
+
 ### Session update (Aug 30, 2026 — pre-launch link fix)
 - Reverted Rae Ann Weddings links to live **stressfree-events.com** (redesign not yet on production)
 - Restored production-aligned copy: Stress Free Events & Weddings, 90-day planning, Wedding Club
