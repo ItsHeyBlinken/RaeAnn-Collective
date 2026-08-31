@@ -1,6 +1,6 @@
 # Rae Ann Collective
 
-Single-page directory site for the Rae Ann Collective umbrella brand, linking to **Exquisite Bride** and **Rae Ann Weddings**.
+Single-page directory site for the Rae Ann Collective umbrella brand, linking to **Exquisite Bride** and **Rae Ann Weddings and Design**.
 
 **Live target:** [raeanncollective.com](https://www.raeanncollective.com/)
 
@@ -16,10 +16,7 @@ Then visit `http://localhost`.
 
 ## Brand URL updates
 
-When Rae Ann Weddings domain cutovers from stressfree-events.com, update URLs in:
-
-- `index.html` (all Rae Ann Weddings links + JSON-LD)
-- `config.js`
+When brand URLs change, update `index.html` and `config.js`.
 
 ## Deploy
 

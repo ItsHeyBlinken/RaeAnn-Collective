@@ -7,7 +7,7 @@ A calm, editorial single-page directory that introduces the collective and route
 1. **Header** — Logo, anchor nav (Our Story, Our Brands)
 2. **Hero** — Logo, value proposition, DFW geographic anchor
 3. **Our Story** — Collective intro + The Meaning Behind Rae Ann (photo grid pending)
-4. **Brand cards** — Exquisite Bride and Stress Free Events & Weddings
+4. **Brand cards** — Exquisite Bride and Rae Ann Weddings and Design
 5. **Footer** — Brand links, copyright, BytesByBlinken credit
 
 ## Our Story Structure
@@ -22,4 +22,4 @@ Mother-daughter team with 25+ combined years in weddings. The name **Rae Ann** h
 | Brand | Primary URL | Notes |
 |-------|-------------|-------|
 | Exquisite Bride | exquisite-brides.com | Live production |
-| Stress Free Events & Weddings | stressfree-events.com | Live production until rebrand launch |
+| Rae Ann Weddings and Design | raeannweddings.com | Live |

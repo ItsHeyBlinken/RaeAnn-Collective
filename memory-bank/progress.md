@@ -27,6 +27,12 @@
 - Apply official palette to Rae Ann Weddings main site at rebrand launch
 - Optional v2: collective logo, hero/brand photography
 
+### Session update (Aug 30, 2026 — Rae Ann Weddings cutover)
+- Updated all links and copy from Stress Free Events to **Rae Ann Weddings and Design** at raeannweddings.com
+- Brand card: new services (Full/Partial Planning, Wedding Day Management), redesign messaging
+- Our Story: added paragraph with contextual link to raeannweddings.com
+- Updated meta tags, JSON-LD, config.js, memory bank
+
 ### Session update (Aug 30, 2026 — production launch)
 - Site live at raeanncollective.com after Coolify **Ports Exposes** set to `80` (was `3000`, caused 502 Bad Gateway)
 

@@ -9,7 +9,7 @@ Single-page directory website at **raeanncollective.com** serving as an umbrella
 
 ## Child Brands
 - **Exquisite Bride** — Bridal boutique in McKinney, TX ([exquisite-brides.com](https://exquisite-brides.com/))
-- **Rae Ann Weddings** — Wedding planning & coordination in DFW (rebrand of Stress Free Events; target domain raeannweddings.com)
+- **Rae Ann Weddings and Design** — Wedding planning & design in DFW ([raeannweddings.com](https://www.raeannweddings.com/))
 
 ## Success Criteria
 - Clear single-page experience on mobile and desktop
@@ -18,5 +18,5 @@ Single-page directory website at **raeanncollective.com** serving as an umbrella
 - Deployable via Docker/nginx on Coolify
 
 ## Backlink Graph
-- **Outbound (this site):** Links to Exquisite Bride and Stress Free Events / Rae Ann Weddings
+- **Outbound (this site):** Links to Exquisite Bride and Rae Ann Weddings and Design
 - **Inbound:** Rae Ann Weddings redesign footer links back on staging; **Exquisite Bride inbound link** is an external task for their web team (no repo access)
