@@ -80,3 +80,7 @@
 - Alternating inline layout: Janet Rae photo right, Theresa Ann photo left on desktop
 - Fixed row alignment: switched from grid-column placement to flexbox rows so each photo sits inline with its paragraph
 - Client approved alternating offset layout (Janet Rae right, Theresa Ann left)
+
+### Session update (Aug 31, 2026 — Our Brands links)
+- All Our Brands card CTAs and secondary links open in a new tab (`target="_blank"`, `rel="noopener noreferrer"`)
+- Footer brand links and BytesByBlinken credit link also open in a new tab
