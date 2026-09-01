@@ -73,3 +73,9 @@
 - Applied official Rae Ann Collective palette to site shell (`styles.css`, `favicon.svg`)
 - Confirmed palette is shared with Rae Ann Weddings; updated RAW brand card to use plum/lilac/dusty-purple/champagne (replacing old lavender/sage Stress Free colors)
 - Updated `memory-bank/systemPatterns.md` and `activeContext.md` with palette tokens
+
+### Session update (Aug 31, 2026 — Meaning Behind Rae Ann layout)
+- Restructured Our Story name-origin block: centered heading + tagline; Janet Rae and Theresa Ann photos inline with their respective paragraphs on desktop; stacked on mobile
+- Replaced two-column text/photos sidebar grid with `.story-meaning-row` pairs; widened `.story-inner` to 52rem
+- Alternating inline layout: Janet Rae photo right, Theresa Ann photo left on desktop
+- Fixed row alignment: switched from grid-column placement to flexbox rows so each photo sits inline with its paragraph
