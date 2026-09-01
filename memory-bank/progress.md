@@ -79,3 +79,4 @@
 - Replaced two-column text/photos sidebar grid with `.story-meaning-row` pairs; widened `.story-inner` to 52rem
 - Alternating inline layout: Janet Rae photo right, Theresa Ann photo left on desktop
 - Fixed row alignment: switched from grid-column placement to flexbox rows so each photo sits inline with its paragraph
+- Client approved alternating offset layout (Janet Rae right, Theresa Ann left)
