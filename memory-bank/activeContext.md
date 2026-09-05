@@ -1,7 +1,7 @@
 # Active Context
 
 ## Current Focus
-Site is **live** at raeanncollective.com. Rae Ann Weddings and Design rebrand cutover complete (Aug 30, 2026).
+Site is **live** at raeanncollective.com. Nginx routing updated for hard 404s and `/index.html` → `/` redirect (pending commit + Coolify redeploy).
 
 ## Domain
 - **Production target:** `www.raeanncollective.com`

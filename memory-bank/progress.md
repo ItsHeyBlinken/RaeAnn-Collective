@@ -84,3 +84,9 @@
 ### Session update (Aug 31, 2026 — Our Brands links)
 - All Our Brands card CTAs and secondary links open in a new tab (`target="_blank"`, `rel="noopener noreferrer"`)
 - Footer brand links and BytesByBlinken credit link also open in a new tab
+
+### Session update (Sep 5, 2026 — nginx SEO routing)
+- Prefer `/` over `/index.html`: `location = /index.html` → 301 `/`
+- Root serves `index.html`; other paths use `try_files $uri $uri/ =404` (no SPA soft-404 fallback)
+- Added branded `404.html` with `error_page 404` + `internal` location
+- Kept sitemap, robots, static cache, gzip, and security-header blocks unchanged
