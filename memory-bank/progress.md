@@ -90,3 +90,12 @@
 - Root serves `index.html`; other paths use `try_files $uri $uri/ =404` (no SPA soft-404 fallback)
 - Added branded `404.html` with `error_page 404` + `internal` location
 - Kept sitemap, robots, static cache, gzip, and security-header blocks unchanged
+
+### Session update (Sep 6, 2026 — brand-entity SEO)
+- Title/meta now name both child brands: `Rae Ann Collective | Exquisite Bride & Rae Ann Weddings`
+- Visible H1: “Rae Ann Collective” + “Home of Exquisite Bride and Rae Ann Weddings and Design”
+- Our Story: contextual links to exquisite-brides.com and raeannweddings.com
+- JSON-LD: Collective `@id`, child `sameAs` + `parentOrganization`
+- Sitemap: added `<lastmod>2026-09-06</lastmod>`
+- Docker nginx: `/index.html` → 301 `https://www.raeanncollective.com/`
+- Search Console redirect/canonical exclusions are intentional; ranking lever still missing is Exquisite Bride inbound footer link

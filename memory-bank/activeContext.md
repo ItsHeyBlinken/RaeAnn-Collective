@@ -1,7 +1,11 @@
 # Active Context
 
 ## Current Focus
-Site is **live** at raeanncollective.com. Nginx routing updated for hard 404s and `/index.html` → `/` redirect (pending commit + Coolify redeploy).
+Brand-entity SEO updates are in the repo (pending commit + Coolify redeploy): visible H1 names both child brands, schema uses `@id` + `parentOrganization`, sitemap has `lastmod`, Docker nginx `/index.html` 301s to `https://www.raeanncollective.com/`.
+
+Search Console “Page with redirect” and “Alternate page with proper canonical” are expected (www/https/`/index.html` variants). Do not treat those as ranking bugs.
+
+Sitemap to submit: `https://www.raeanncollective.com/sitemap.xml`
 
 ## Domain
 - **Production target:** `www.raeanncollective.com`

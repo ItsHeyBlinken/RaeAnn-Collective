@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Rae Ann Collective connects two trusted DFW wedding brands: Exquisite Bride bridal boutique in McKinney and Rae Ann Weddings and Design planning across Dallas–Fort Worth.">
+    <meta name="description" content="Rae Ann Collective is the DFW family behind Exquisite Bride, a bridal boutique in McKinney, and Rae Ann Weddings and Design, wedding planning across Dallas–Fort Worth.">
     <meta name="author" content="Rae Ann Collective">
     <meta name="robots" content="index, follow, max-image-preview:large">
 
@@ -14,17 +14,17 @@
 
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://www.raeanncollective.com/">
-    <meta property="og:title" content="Rae Ann Collective | DFW Wedding Planning &amp; Bridal Boutique">
-    <meta property="og:description" content="Two trusted DFW wedding brands under one family: Exquisite Bride bridal boutique and Rae Ann Weddings and Design planning and coordination.">
+    <meta property="og:title" content="Rae Ann Collective | Exquisite Bride &amp; Rae Ann Weddings">
+    <meta property="og:description" content="Rae Ann Collective is the DFW family behind Exquisite Bride and Rae Ann Weddings and Design.">
     <meta property="og:image" content="https://www.raeanncollective.com/assets/Rae%20Ann%20Logo%20Suite%20-%203.png">
     <meta property="og:site_name" content="Rae Ann Collective">
     <meta property="og:locale" content="en_US">
 
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:title" content="Rae Ann Collective | DFW Wedding Planning &amp; Bridal Boutique">
-    <meta name="twitter:description" content="Two trusted DFW wedding brands under one family: Exquisite Bride bridal boutique and Rae Ann Weddings and Design planning and coordination.">
+    <meta name="twitter:title" content="Rae Ann Collective | Exquisite Bride &amp; Rae Ann Weddings">
+    <meta name="twitter:description" content="Rae Ann Collective is the DFW family behind Exquisite Bride and Rae Ann Weddings and Design.">
 
-    <title>Rae Ann Collective | DFW Wedding Planning &amp; Bridal Boutique</title>
+    <title>Rae Ann Collective | Exquisite Bride &amp; Rae Ann Weddings</title>
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -36,6 +36,7 @@
     {
         "@context": "https://schema.org",
         "@type": "Organization",
+        "@id": "https://www.raeanncollective.com/#organization",
         "name": "Rae Ann Collective",
         "url": "https://www.raeanncollective.com/",
         "logo": "https://www.raeanncollective.com/assets/Rae%20Ann%20Logo%20Suite%20-%203.png",
@@ -47,8 +48,13 @@
         "subOrganization": [
             {
                 "@type": "LocalBusiness",
+                "@id": "https://exquisite-brides.com/#organization",
                 "name": "Exquisite Bride",
                 "url": "https://exquisite-brides.com/",
+                "sameAs": "https://exquisite-brides.com/",
+                "parentOrganization": {
+                    "@id": "https://www.raeanncollective.com/#organization"
+                },
                 "description": "Bridal boutique in McKinney, Texas featuring couture wedding gown designers.",
                 "address": {
                     "@type": "PostalAddress",
@@ -61,8 +67,13 @@
             },
             {
                 "@type": "LocalBusiness",
+                "@id": "https://www.raeannweddings.com/#organization",
                 "name": "Rae Ann Weddings and Design",
                 "url": "https://www.raeannweddings.com/",
+                "sameAs": "https://www.raeannweddings.com/",
+                "parentOrganization": {
+                    "@id": "https://www.raeanncollective.com/#organization"
+                },
                 "description": "Wedding planning and design throughout the Dallas–Fort Worth area, including full wedding planning, partial wedding planning, and wedding day management.",
                 "areaServed": {
                     "@type": "AdministrativeArea",
@@ -110,7 +121,10 @@
                     height="320"
                     decoding="async"
                 >
-                <h1 id="hero-heading" class="visually-hidden">Rae Ann Collective</h1>
+                <h1 id="hero-heading">
+                    Rae Ann Collective
+                    <span class="hero-heading-brands">Home of Exquisite Bride and Rae Ann Weddings and Design</span>
+                </h1>
                 <p class="hero-subhead">Two trusted DFW wedding brands. One shared commitment to your perfect day.</p>
                 <a class="scroll-cue" href="#our-brands" aria-label="Scroll to our brands">
                     <span>Explore our brands</span>
@@ -127,6 +141,13 @@
                 <div class="story-content">
                     <p>
                         Rae Ann Collective was created from a belief that the most meaningful celebrations, experiences, and businesses are built with intention. What began with a passion for weddings and exceptional client experiences has grown into a collective of thoughtfully curated brands, each designed to bring creativity, connection, and elevated service to the people we serve.
+                    </p>
+                    <p>
+                        Today the Collective includes
+                        <a href="https://exquisite-brides.com/" target="_blank" rel="noopener noreferrer">Exquisite Bride</a>,
+                        a bridal boutique in McKinney, and
+                        <a href="https://www.raeannweddings.com/" target="_blank" rel="noopener noreferrer">Rae Ann Weddings and Design</a>,
+                        wedding planning and design across Dallas&ndash;Fort Worth.
                     </p>
 
                     <div class="story-meaning" aria-labelledby="meaning-heading">
